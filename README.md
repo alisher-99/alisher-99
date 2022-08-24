@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alisher-99
+- 👀 I’m interested in Back-end and Blockchain development
+- 🌱 I’m currently learning Golang/HTML/CSS/SQL/Docker
+- 📫 My email: alisher1999@gmail.com
